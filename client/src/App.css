@@ -1,0 +1,10 @@
+.App {
+	display: flex;
+	flex-flow: column;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.App > h2 {
+	margin-left: 30px;
+}

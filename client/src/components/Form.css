@@ -1,0 +1,31 @@
+.form {
+	display: flex;
+	flex-flow: column;
+	width: 75px;
+}
+
+.click {
+	text-decoration: none;
+	color: white;
+	background-color: rgb(0, 148, 62);
+
+	font-weight: 500;
+
+	border-style: solid;
+	border-radius: 10px;
+
+	margin-left: 220px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 30px;
+	width: 75px;
+}
+
+.click:hover {
+	color: rgb(0, 148, 62);
+	background-color: white;
+}
+
+.output {
+	width: 300px;
+}
